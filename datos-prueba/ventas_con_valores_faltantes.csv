@@ -1,0 +1,901 @@
+﻿fecha,producto,categoria,cantidad,precio_unitario,total,canal,region
+01/01/2026,Cafetera Espresso Deluxe,Hogar,3,3909,11727,Online,CDMX
+,Cámara Action Go,Electrónica,,7999,,Marketplace,Yucatán
+01/01/2026,Mancuernas Ajustables 10kg,Deportes,,999,999,Marketplace,Yucatán
+01/01/2026,Smart TV 55'',Electrónica,,11499,11499,Online,
+01/01/2026,Purificador de Aire Mini,Hogar,3,2899,8697,Online,Puebla
+01/01/2026,Smartwatch Fit 3,Electrónica,1,3299,3299,Tienda física,CDMX
+01/02/2026,Chamarra Denim Classic,Moda,1,1299,1299,Online,Nuevo León
+01/02/2026,Smartphone X5,Electrónica,,8998.50,8998.50,Marketplace,Nuevo León
+01/02/2026,Bloques Creativos 500pz,Juguetes,,899,899,Marketplace,CDMX
+,Smartwatch Fit 3,Electrónica,6,3299,19794,Online,Nuevo León
+01/09/2025,Set Ciencia Experimentos,Juguetes,3,628.50,1885.50,Móvil App,Yucatán
+01/09/2025,Bloques Creativos 500pz,Juguetes,1,898.50,898.50,Tienda física,Yucatán
+01/09/2025,Audífonos ANC Studio,Electrónica,2,1999,3998,Tienda física,Yucatán
+01/09/2025,Dron Junior HD,Juguetes,4,1599,6396,Online,CDMX
+01/09/2025,Secadora Iónica 2200W,Belleza,3,1498.50,4495.50,,Nuevo León
+01/09/2025,Kit Bandas Elásticas,Deportes,1,254,254,Móvil App,Nuevo León
+01/09/2025,Bloques Creativos 500pz,Juguetes,2,899,1798,Tienda física,Nuevo León
+01/09/2025,Cafetera Espresso Deluxe,Hogar,2,4599,9198,Online,Yucatán
+01/10/2025,Banda de Correr Plegable,Deportes,2,12498.50,24997,Online,CDMX
+01/10/2025,Dron Junior HD,Juguetes,1,1599,1599,,Chihuahua
+01/10/2025,Peluche Oso Gigante 1.5m,Juguetes,1,548.50,548.50,Online,Nuevo León
+01/10/2025,Rizador de Pelas Digital,Belleza,1,898.50,898.50,Online,Puebla
+01/11/2025,Auto RC Turbo Rally,Juguetes,,701,,Móvil App,
+01/11/2025,Mancuernas Ajustables 10kg,Deportes,1,999,999,Tienda física,CDMX
+01/11/2025,Perfume Noir Intense 100ml,Belleza,1,1424,1424,Tienda física,CDMX
+01/11/2025,Lámpara LED Inteligente,Hogar,2,548.50,1097,,Jalisco
+01/11/2025,,Belleza,1,389,389,,CDMX
+01/12/2025,Smart TV 55'',Electrónica,1,11499,11499,Tienda física,Chihuahua
+01/12/2025,Perfume Noir Intense 100ml,Belleza,2,1899,3798,Marketplace,Yucatán
+01/12/2025,,Electrónica,2,1599,3198,Móvil App,Nuevo León
+01/12/2025,Smart TV 55'',Electrónica,1,11499,11499,Móvil App,Jalisco
+02/01/2026,Chamarra Denim Classic,Moda,1,1299,,Tienda física,Jalisco
+02/01/2026,Sudadera Hoodie Urban,Moda,2,899,1798,Móvil App,Nuevo León
+02/01/2026,Set Ciencia Experimentos,Juguetes,1,629,629,Tienda física,Jalisco
+02/01/2026,Aspiradora Robot Clean+,Hogar,2,5998.50,11997,Móvil App,Puebla
+02/01/2026,Dron Junior HD,Juguetes,1,1598.50,1598.50,Tienda física,CDMX
+02/02/2026,Set Ciencia Experimentos,Juguetes,2,629,1258,Online,Puebla
+02/02/2026,,Electrónica,1,18999,18999,Online,Puebla
+02/02/2026,Consola Next X,Electrónica,1,11199,11199,Online,Yucatán
+02/02/2026,Smartwatch Fit 3,Electrónica,1,3298.50,3298.50,Marketplace,Puebla
+02/02/2026,Paleta de Sombras Nude,Belleza,,499,1497,Tienda física,Nuevo León
+02/02/2026,Juego de Mesa Familiar,Juguetes,2,449,898,Online,Chihuahua
+02/02/2026,Crema Hidratante Aloe,Belleza,1,389,,Online,Jalisco
+02/02/2026,Balón Soccer Pro FIFA,Deportes,1,494,494,,Nuevo León
+02/09/2025,Tablet Galaxy 10",Electrónica,2,6499,12998,,Jalisco
+02/09/2025,Tablet Galaxy 10",Electrónica,3,5199,15597,Online,Puebla
+02/09/2025,Smartwatch Fit 3,Electrónica,1,3299,3299,Tienda física,Jalisco
+02/10/2025,Camiseta Basic Cotton,Moda,2,399,798,,Chihuahua
+02/10/2025,Audífonos ANC Studio,Electrónica,1,2499,2499,Online,CDMX
+02/10/2025,Bloques Creativos 500pz,Juguetes,2,898.50,1797,Online,Jalisco
+02/10/2025,Paleta de Sombras Nude,Belleza,1,499,499,Marketplace,Chihuahua
+02/10/2025,,Juguetes,4,535,2140,Online,CDMX
+02/11/2025,Audífonos ANC Studio,Electrónica,1,2499,2499,Online,Yucatán
+02/11/2025,Purificador de Aire Mini,Hogar,1,2174,2174,Tienda física,Nuevo León
+02/11/2025,Juego de Ollas Antiadherentes,Hogar,1,2399,2399,Marketplace,Chihuahua
+02/11/2025,Cámara Action Go,Electrónica,1,7998.50,7998.50,Marketplace,CDMX
+02/12/2025,Bolso de Cuero Milano,Moda,1,,1899,Marketplace,
+02/12/2025,Audífonos ANC Studio,Electrónica,2,2249,4498,Online,CDMX
+02/12/2025,Sudadera Hoodie Urban,Moda,2,899,1798,Online,Jalisco
+02/12/2025,Banda de Correr Plegable,Deportes,1,12499,12499,Online,
+03/01/2026,Juego de Ollas Antiadherentes,Hogar,1,2398.50,2398.50,Móvil App,Nuevo León
+03/01/2026,Rizador de Pelas Digital,Belleza,1,899,,Online,CDMX
+03/01/2026,Laptop Pro 14,Electrónica,3,18049,54147,Online,Puebla
+03/01/2026,Rizador de Pelas Digital,Belleza,1,899,899,,Jalisco
+03/01/2026,Auto RC Turbo Rally,Juguetes,2,779,1558,Marketplace,Yucatán
+03/02/2026,Laptop Pro 14,Electrónica,2,18998.50,37997,Online,CDMX
+03/02/2026,Balón Soccer Pro FIFA,Deportes,1,548.50,548.50,Marketplace,Jalisco
+03/02/2026,,Deportes,1,11249,11249,Marketplace,Yucatán
+03/02/2026,Smartphone X5,Electrónica,2,8999,17998,Marketplace,Jalisco
+03/02/2026,Tablet Galaxy 10",Electrónica,1,6499,6499,Online,Jalisco
+03/09/2025,Laptop Pro 14,Electrónica,4,18998.50,75994,Marketplace,Puebla
+03/09/2025,Smartphone X5,Electrónica,1,7649,7649,Tienda física,Nuevo León
+03/10/2025,Rizador de Pelas Digital,Belleza,3,899,2697,Online,Jalisco
+03/10/2025,Lámpara LED Inteligente,Hogar,3,549,1647,Online,Jalisco
+03/10/2025,Audífonos ANC Studio,Electrónica,3,2498.50,7495.50,,Puebla
+03/10/2025,Aspiradora Robot Clean+,Hogar,,5999,5999,,CDMX
+03/11/2025,Serum Vitamina C 30ml,Belleza,2,626,1252,Tienda física,
+03/11/2025,Tablet Galaxy 10",Electrónica,2,6498.50,12997,Marketplace,Jalisco
+03/11/2025,Cámara Action Go,Electrónica,1,7999,7999,Online,CDMX
+03/11/2025,Smartwatch Fit 3,Electrónica,3,2804,8412,Marketplace,Chihuahua
+03/11/2025,Licuadora Turbo 1200W,Hogar,2,1444,2888,Marketplace,Puebla
+03/11/2025,Sudadera Hoodie Urban,Moda,2,899,1798,Tienda física,Nuevo León
+03/11/2025,Crema Hidratante Aloe,Belleza,6,389,2334,Online,Nuevo León
+03/12/2025,Lámpara LED Inteligente,Hogar,2,548.50,1097,Online,Puebla
+03/12/2025,Set Ciencia Experimentos,Juguetes,2,535,1070,Móvil App,Jalisco
+03/12/2025,Set Ciencia Experimentos,Juguetes,1,629,629,Online,Puebla
+03/12/2025,Crema Hidratante Aloe,Belleza,1,389,389,Marketplace,CDMX
+04/01/2026,Dron Junior HD,Juguetes,1,1599,1599,Marketplace,
+04/01/2026,Cafetera Espresso Deluxe,Hogar,1,4598.50,4598.50,Marketplace,Puebla
+04/01/2026,Barra de Sonido 2.1,Electrónica,1,2974,2974,Online,Puebla
+04/01/2026,Set de Sábanas Queen 600h,Hogar,2,1199,,Móvil App,Puebla
+04/01/2026,Camiseta Basic Cotton,Moda,1,319,319,Móvil App,CDMX
+04/01/2026,Lentes de Sol Retro,Moda,,759,1518,Online,Puebla
+04/01/2026,,Hogar,1,2754,2754,Online,CDMX
+04/01/2026,Mancuernas Ajustables 10kg,Deportes,1,998.50,998.50,Online,Nuevo León
+04/01/2026,Bolso de Cuero Milano,Moda,1,1424,1424,Online,Yucatán
+04/01/2026,Smartphone X5,Electrónica,1,8549,8549,Online,Jalisco
+04/01/2026,Perfume Noir Intense 100ml,Belleza,1,1898.50,1898.50,Móvil App,CDMX
+04/02/2026,Lámpara LED Inteligente,Hogar,2,548.50,1097,Online,Puebla
+04/02/2026,Consola Next X,Electrónica,2,13999,27998,Online,Chihuahua
+04/02/2026,Crema Hidratante Aloe,Belleza,,389,389,Online,Puebla
+04/02/2026,Mancuernas Ajustables 10kg,Deportes,1,849,849,Móvil App,Chihuahua
+04/02/2026,Aspiradora Robot Clean+,Hogar,2,4799,9598,Tienda física,
+04/02/2026,Consola Next X,Electrónica,1,13998.50,13998.50,Online,Puebla
+04/09/2025,Rizador de Pelas Digital,Belleza,6,674,4044,Marketplace,Nuevo León
+04/09/2025,,Juguetes,,1598.50,4795.50,Marketplace,Yucatán
+04/09/2025,Cámara Action Go,Electrónica,1,7999,7999,Online,CDMX
+04/09/2025,Juego de Mesa Familiar,Juguetes,2,449,898,Online,Nuevo León
+04/09/2025,Vestido Floral Summer,Moda,2,824,1648,Marketplace,Yucatán
+04/10/2025,Bloques Creativos 500pz,Juguetes,,898.50,1797,Online,Jalisco
+04/10/2025,Banda de Correr Plegable,Deportes,2,12499,24998,Tienda física,Nuevo León
+04/10/2025,Set Ciencia Experimentos,Juguetes,2,629,1258,Online,CDMX
+04/11/2025,Tablet Galaxy 10",Electrónica,2,6498.50,12997,Online,CDMX
+04/11/2025,Balón Soccer Pro FIFA,Deportes,3,548.50,1645.50,Online,CDMX
+04/11/2025,Smartwatch Fit 3,Electrónica,5,3299,16495,Online,CDMX
+04/11/2025,Kit Bandas Elásticas,Deportes,1,299,299,Online,Puebla
+04/11/2025,Yoga Mat Premium,Deportes,1,649,649,Tienda física,Jalisco
+04/11/2025,,Deportes,4,12499,49996,Marketplace,Jalisco
+04/11/2025,Secadora Iónica 2200W,Belleza,1,1424,1424,Online,Puebla
+04/12/2025,Set Ciencia Experimentos,Juguetes,1,598,598,Marketplace,CDMX
+04/12/2025,Perfume Noir Intense 100ml,Belleza,2,1899,3798,Online,Puebla
+04/12/2025,Casco Ciclismo Aero,Deportes,6,1299,7794,Online,CDMX
+04/12/2025,Tenis Runner Air,Moda,1,2198.50,2198.50,Online,Chihuahua
+05/01/2026,Rizador de Pelas Digital,Belleza,1,898.50,898.50,Móvil App,Nuevo León
+05/02/2026,Juego de Mesa Familiar,Juguetes,1,449,449,Tienda física,CDMX
+05/02/2026,Set Ciencia Experimentos,Juguetes,3,598,1794,Móvil App,Jalisco
+05/02/2026,Juego de Ollas Antiadherentes,Hogar,1,2279,2279,Tienda física,Nuevo León
+05/02/2026,Lentes de Sol Retro,Moda,1,759,759,Marketplace,Puebla
+05/02/2026,Vestido Floral Summer,Moda,1,1099,1099,Online,
+05/09/2025,Smartwatch Fit 3,Electrónica,1,3299,3299,Móvil App,Jalisco
+05/09/2025,Juego de Mesa Familiar,Juguetes,1,449,449,Online,
+05/09/2025,Mancuernas Ajustables 10kg,Deportes,1,999,999,Online,CDMX
+05/09/2025,Audífonos ANC Studio,Electrónica,2,2499,4998,Online,CDMX
+05/09/2025,Chamarra Denim Classic,Moda,1,1298.50,1298.50,Online,Chihuahua
+05/10/2025,Aspiradora Robot Clean+,Hogar,1,5999,5999,Online,Jalisco
+05/10/2025,Bicicleta Urbana R26,Deportes,3,7999,23997,Online,Chihuahua
+05/10/2025,Consola Next X,Electrónica,1,13999,13999,Tienda física,Nuevo León
+05/10/2025,Pantalón Chino Slim,Moda,1,712,712,Online,Nuevo León
+05/10/2025,Smartwatch Fit 3,Electrónica,1,3299,3299,Online,
+05/10/2025,Set de Sábanas Queen 600h,Hogar,2,1079,2158,Marketplace,Puebla
+05/10/2025,Balón Soccer Pro FIFA,Deportes,1,549,549,Marketplace,CDMX
+05/11/2025,Purificador de Aire Mini,Hogar,2,2899,5798,Móvil App,Nuevo León
+05/11/2025,Tablet Galaxy 10",Electrónica,1,6499,6499,Tienda física,CDMX
+05/11/2025,Vestido Floral Summer,Moda,1,1098.50,,Móvil App,CDMX
+05/11/2025,Laptop Pro 14,Electrónica,2,,37998,Online,Jalisco
+05/12/2025,Paleta de Sombras Nude,Belleza,1,499,499,Online,
+05/12/2025,Tablet Galaxy 10",Electrónica,1,6498.50,6498.50,Online,CDMX
+05/12/2025,Peluche Oso Gigante 1.5m,Juguetes,2,494,988,Tienda física,Nuevo León
+05/12/2025,Laptop Pro 14,Electrónica,1,18999,18999,Marketplace,CDMX
+,Chamarra Denim Classic,Moda,1,1299,1299,Marketplace,Nuevo León
+05/12/2025,Secadora Iónica 2200W,Belleza,2,1499,2998,Tienda física,CDMX
+05/12/2025,Cámara Action Go,Electrónica,3,7999,23997,Marketplace,CDMX
+05/12/2025,Tablet Galaxy 10",Electrónica,1,6499,6499,Online,CDMX
+06/01/2026,Lámpara LED Inteligente,Hogar,1,549,549,Tienda física,Nuevo León
+06/01/2026,,Belleza,1,499,499,Online,CDMX
+06/01/2026,Juego de Ollas Antiadherentes,Hogar,1,1799,1799,Online,
+06/01/2026,Consola Next X,Electrónica,1,13998.50,13998.50,Tienda física,CDMX
+06/01/2026,Barra de Sonido 2.1,Electrónica,1,3499,3499,Online,
+06/02/2026,,Deportes,3,12499,37497,Marketplace,Nuevo León
+06/02/2026,,Belleza,1,560,560,,Jalisco
+06/02/2026,Kit Bandas Elásticas,Deportes,1,284,284,Marketplace,Yucatán
+06/02/2026,Sudadera Hoodie Urban,Moda,1,899,899,Tienda física,Nuevo León
+06/02/2026,Rizador de Pelas Digital,Belleza,2,899,1798,Online,Jalisco
+06/02/2026,Cámara Action Go,Electrónica,1,7999,7999,Móvil App,CDMX
+06/02/2026,Balón Soccer Pro FIFA,Deportes,1,548.50,548.50,Tienda física,Chihuahua
+06/09/2025,,Belleza,1,389,389,Online,CDMX
+06/09/2025,Set Ciencia Experimentos,Juguetes,2,598,1196,Online,Jalisco
+06/09/2025,Rizador de Pelas Digital,Belleza,1,899,899,Tienda física,Nuevo León
+06/09/2025,Tablet Galaxy 10",Electrónica,5,6498.50,32492.50,Móvil App,Nuevo León
+06/09/2025,Aspiradora Robot Clean+,Hogar,1,5999,5999,Móvil App,Chihuahua
+06/10/2025,Secadora Iónica 2200W,Belleza,2,1349,2698,Marketplace,CDMX
+06/10/2025,Dron Junior HD,Juguetes,2,1598.50,3197,Online,CDMX
+06/10/2025,Barra de Sonido 2.1,Electrónica,1,3498.50,3498.50,Online,Puebla
+06/10/2025,Serum Vitamina C 30ml,Belleza,2,659,1318,Online,CDMX
+06/11/2025,Laptop Pro 14,Electrónica,1,18999,18999,,Jalisco
+06/11/2025,Chamarra Denim Classic,Moda,5,974,4870,Online,Nuevo León
+06/11/2025,Crema Hidratante Aloe,Belleza,2,389,778,Online,Nuevo León
+06/11/2025,Paleta de Sombras Nude,Belleza,4,424,1696,Marketplace,CDMX
+06/11/2025,Set de Sábanas Queen 600h,Hogar,1,1198.50,1198.50,Marketplace,Puebla
+06/11/2025,Audífonos ANC Studio,Electrónica,3,2498.50,7495.50,Móvil App,Yucatán
+06/11/2025,Tablet Galaxy 10",Electrónica,1,6499,6499,Online,Chihuahua
+06/11/2025,Perfume Noir Intense 100ml,Belleza,1,1899,1899,Marketplace,Chihuahua
+06/11/2025,Bloques Creativos 500pz,Juguetes,3,899,2697,Tienda física,Jalisco
+06/12/2025,Cámara Action Go,Electrónica,1,7999,7999,Tienda física,Yucatán
+06/12/2025,Balón Soccer Pro FIFA,Deportes,1,549,549,Tienda física,Nuevo León
+06/12/2025,Vestido Floral Summer,Moda,6,1099,6594,Online,CDMX
+06/12/2025,Bicicleta Urbana R26,Deportes,1,7999,7999,Online,CDMX
+06/12/2025,Barra de Sonido 2.1,Electrónica,2,3499,6998,Móvil App,Chihuahua
+06/12/2025,Paleta de Sombras Nude,Belleza,1,499,499,Online,Jalisco
+06/12/2025,Teclado Mecánico RGB,Electrónica,1,1599,1599,Online,Jalisco
+06/12/2025,Lentes de Sol Retro,Moda,1,721,721,Marketplace,Chihuahua
+06/12/2025,Laptop Pro 14,Electrónica,1,18999,18999,Tienda física,CDMX
+07/01/2026,Banda de Correr Plegable,Deportes,2,12499,24998,,Yucatán
+07/01/2026,Juego de Ollas Antiadherentes,Hogar,1,2399,2399,Marketplace,Yucatán
+07/01/2026,Paleta de Sombras Nude,Belleza,1,474,474,Móvil App,Yucatán
+07/01/2026,Casco Ciclismo Aero,Deportes,6,1234,7404,Marketplace,CDMX
+07/01/2026,Perfume Noir Intense 100ml,Belleza,1,1899,1899,Online,CDMX
+07/01/2026,Banda de Correr Plegable,Deportes,1,11249,11249,Móvil App,Nuevo León
+07/01/2026,Barra de Sonido 2.1,Electrónica,1,3498.50,3498.50,Móvil App,Yucatán
+07/02/2026,Dron Junior HD,Juguetes,2,1599,3198,Tienda física,Jalisco
+07/02/2026,Cámara Action Go,Electrónica,1,7999,,Móvil App,
+07/02/2026,Secadora Iónica 2200W,Belleza,3,1199,3597,Móvil App,Nuevo León
+07/02/2026,Mancuernas Ajustables 10kg,Deportes,1,998.50,,Online,CDMX
+07/02/2026,Bloques Creativos 500pz,Juguetes,1,899,899,,Nuevo León
+07/09/2025,Paleta de Sombras Nude,Belleza,1,499,499,Online,CDMX
+07/09/2025,Aspiradora Robot Clean+,Hogar,1,5999,5999,Marketplace,Nuevo León
+07/09/2025,Audífonos ANC Studio,Electrónica,2,1999,3998,Online,
+07/09/2025,Aspiradora Robot Clean+,Hogar,3,5999,17997,Tienda física,
+07/09/2025,Serum Vitamina C 30ml,Belleza,1,659,659,Online,CDMX
+07/09/2025,Smartwatch Fit 3,Electrónica,3,3299,9897,,Jalisco
+07/10/2025,Auto RC Turbo Rally,Juguetes,4,662,2648,Marketplace,CDMX
+07/10/2025,Purificador de Aire Mini,Hogar,1,2899,2899,Marketplace,CDMX
+07/10/2025,Aspiradora Robot Clean+,Hogar,1,5399,5399,Online,Chihuahua
+07/10/2025,Chamarra Denim Classic,Moda,1,1039,1039,Online,CDMX
+07/10/2025,,Belleza,2,560,1120,Online,Jalisco
+07/10/2025,Laptop Pro 14,Electrónica,1,18999,18999,,Jalisco
+07/11/2025,Laptop Pro 14,Electrónica,1,18999,18999,Tienda física,Chihuahua
+07/11/2025,Licuadora Turbo 1200W,Hogar,2,1359,2718,Marketplace,CDMX
+07/11/2025,Lentes de Sol Retro,Moda,1,758.50,758.50,,
+,Barra de Sonido 2.1,Electrónica,1,2974,2974,Online,Puebla
+07/11/2025,Yoga Mat Premium,Deportes,1,648.50,648.50,Móvil App,Puebla
+07/11/2025,Lentes de Sol Retro,Moda,1,758.50,758.50,Marketplace,Jalisco
+07/11/2025,Peluche Oso Gigante 1.5m,Juguetes,,439,439,,CDMX
+07/11/2025,Audífonos ANC Studio,Electrónica,2,,4498,Tienda física,Jalisco
+07/11/2025,Consola Next X,Electrónica,2,13998.50,27997,Online,Nuevo León
+07/12/2025,Yoga Mat Premium,Deportes,1,649,649,Online,Jalisco
+07/12/2025,Barra de Sonido 2.1,Electrónica,3,3498.50,10495.50,Online,Jalisco
+07/12/2025,Licuadora Turbo 1200W,Hogar,1,1359,1359,Tienda física,Puebla
+07/12/2025,Juego de Mesa Familiar,Juguetes,1,449,449,Móvil App,CDMX
+07/12/2025,Juego de Ollas Antiadherentes,Hogar,3,2399,7197,Online,CDMX
+07/12/2025,Set de Sábanas Queen 600h,Hogar,1,1199,1199,Marketplace,Jalisco
+,Smartphone X5,Electrónica,1,8099,8099,Online,Jalisco
+07/12/2025,Lámpara LED Inteligente,Hogar,1,548.50,548.50,Online,Yucatán
+08/01/2026,Smartwatch Fit 3,Electrónica,2,3299,6598,Marketplace,Jalisco
+08/01/2026,Smart TV 55'',Electrónica,1,11498.50,11498.50,Tienda física,Nuevo León
+08/01/2026,Purificador de Aire Mini,Hogar,,2754,2754,Tienda física,Chihuahua
+08/01/2026,Serum Vitamina C 30ml,Belleza,1,659,659,Online,Puebla
+08/01/2026,Mancuernas Ajustables 10kg,Deportes,2,998.50,1997,Online,CDMX
+08/01/2026,Casco Ciclismo Aero,Deportes,1,1299,1299,Móvil App,Chihuahua
+08/01/2026,Juego de Ollas Antiadherentes,Hogar,1,2398.50,2398.50,Marketplace,CDMX
+08/01/2026,Juego de Ollas Antiadherentes,Hogar,2,2279,4558,,
+08/02/2026,Crema Hidratante Aloe,Belleza,1,389,389,Tienda física,Jalisco
+08/02/2026,Tablet Galaxy 10",Electrónica,2,6499,12998,Tienda física,CDMX
+08/02/2026,Cámara Action Go,Electrónica,1,7999,7999,Móvil App,CDMX
+08/02/2026,Bicicleta Urbana R26,Deportes,2,7999,15998,Marketplace,
+08/09/2025,Peluche Oso Gigante 1.5m,Juguetes,2,549,1098,Online,Puebla
+08/09/2025,Serum Vitamina C 30ml,Belleza,2,658.50,1317,Online,Puebla
+08/09/2025,Smartwatch Fit 3,Electrónica,2,3299,6598,Tienda física,Jalisco
+08/10/2025,Rizador de Pelas Digital,Belleza,2,899,1798,Móvil App,Nuevo León
+08/10/2025,Sudadera Hoodie Urban,Moda,,899,899,Online,Jalisco
+08/10/2025,Casco Ciclismo Aero,Deportes,1,1104,1104,Móvil App,Jalisco
+,Bicicleta Urbana R26,Deportes,2,5999,11998,Tienda física,CDMX
+08/10/2025,Smart TV 55'',Electrónica,2,11499,22998,Online,Nuevo León
+08/11/2025,Pantalón Chino Slim,Moda,1,949,,Online,Chihuahua
+08/11/2025,Kit Bandas Elásticas,Deportes,3,299,897,Marketplace,Jalisco
+08/11/2025,Purificador de Aire Mini,Hogar,2,2898.50,5797,Tienda física,CDMX
+08/11/2025,,Juguetes,1,899,899,Móvil App,Puebla
+08/11/2025,Purificador de Aire Mini,Hogar,2,2899,5798,,Jalisco
+08/11/2025,Purificador de Aire Mini,Hogar,1,2464,2464,Tienda física,Jalisco
+08/11/2025,Cámara Action Go,Electrónica,1,7998.50,7998.50,Online,CDMX
+08/11/2025,Smartwatch Fit 3,Electrónica,1,,2804,Móvil App,Yucatán
+08/11/2025,Bolso de Cuero Milano,Moda,1,1899,1899,Online,Yucatán
+08/11/2025,Audífonos ANC Studio,Electrónica,3,2124,6372,Marketplace,CDMX
+08/12/2025,Crema Hidratante Aloe,Belleza,1,389,389,Tienda física,
+09/01/2026,Dron Junior HD,Juguetes,1,1599,,Móvil App,Puebla
+09/01/2026,Purificador de Aire Mini,Hogar,1,2899,2899,Online,Jalisco
+09/01/2026,Purificador de Aire Mini,Hogar,2,2898.50,5797,Tienda física,CDMX
+09/01/2026,Chamarra Denim Classic,Moda,1,1299,1299,Marketplace,
+09/02/2026,,Belleza,2,499,998,Online,Chihuahua
+09/02/2026,Paleta de Sombras Nude,Belleza,1,499,499,Online,Jalisco
+09/02/2026,Dron Junior HD,Juguetes,1,1598.50,1598.50,Marketplace,Yucatán
+09/09/2025,Serum Vitamina C 30ml,Belleza,2,658.50,1317,Móvil App,Yucatán
+09/09/2025,,Belleza,,389,389,Marketplace,Jalisco
+,Smartwatch Fit 3,Electrónica,1,2969,2969,Marketplace,Jalisco
+09/09/2025,Bolso de Cuero Milano,Moda,2,1899,3798,Online,CDMX
+09/09/2025,Camiseta Basic Cotton,Moda,,,798,Marketplace,Nuevo León
+09/09/2025,Bloques Creativos 500pz,Juguetes,2,899,1798,Marketplace,Yucatán
+09/09/2025,Bicicleta Urbana R26,Deportes,3,7999,23997,Móvil App,Jalisco
+09/10/2025,Audífonos ANC Studio,Electrónica,1,1874,1874,Marketplace,Nuevo León
+09/10/2025,Smartwatch Fit 3,Electrónica,3,3299,9897,Online,CDMX
+09/11/2025,Consola Next X,Electrónica,3,13998.50,41995.50,Móvil App,Puebla
+09/11/2025,Paleta de Sombras Nude,Belleza,1,399,399,Online,Nuevo León
+09/11/2025,Tenis Runner Air,Moda,2,2089,4178,Tienda física,Jalisco
+09/11/2025,Vestido Floral Summer,Moda,1,1099,1099,Marketplace,Yucatán
+09/11/2025,Aspiradora Robot Clean+,Hogar,1,5999,5999,Online,Jalisco
+09/12/2025,Smartphone X5,Electrónica,1,8999,8999,Online,
+09/12/2025,Juego de Ollas Antiadherentes,Hogar,1,2398.50,2398.50,Online,CDMX
+09/12/2025,,Electrónica,4,8624,34496,Online,CDMX
+09/12/2025,Serum Vitamina C 30ml,Belleza,2,659,,Online,CDMX
+10/01/2026,Cafetera Espresso Deluxe,Hogar,3,4599,13797,Online,CDMX
+10/01/2026,Cámara Action Go,Electrónica,1,7999,7999,Online,Puebla
+10/01/2026,Peluche Oso Gigante 1.5m,Juguetes,1,549,549,Online,Chihuahua
+10/01/2026,Vestido Floral Summer,Moda,2,1099,2198,Móvil App,Jalisco
+10/01/2026,Laptop Pro 14,Electrónica,,18049,18049,Marketplace,Jalisco
+10/01/2026,Smart TV 55'',Electrónica,,11499,34497,Online,Chihuahua
+10/01/2026,Set de Sábanas Queen 600h,Hogar,1,1199,1199,Marketplace,
+10/01/2026,Auto RC Turbo Rally,Juguetes,1,778.50,778.50,Marketplace,Nuevo León
+10/02/2026,Rizador de Pelas Digital,Belleza,2,764,1528,Tienda física,Chihuahua
+10/02/2026,Smartwatch Fit 3,Electrónica,1,3299,3299,Online,CDMX
+10/02/2026,Casco Ciclismo Aero,Deportes,3,1299,3897,Online,CDMX
+10/09/2025,Smart TV 55'',Electrónica,3,11498.50,34495.50,Tienda física,
+10/09/2025,Smart TV 55'',Electrónica,2,8624,17248,Marketplace,Nuevo León
+10/09/2025,Balón Soccer Pro FIFA,Deportes,1,549,549,Tienda física,Nuevo León
+10/09/2025,Juego de Mesa Familiar,Juguetes,2,449,898,Online,CDMX
+10/10/2025,Aspiradora Robot Clean+,Hogar,6,4499,26994,,CDMX
+10/10/2025,Lámpara LED Inteligente,Hogar,2,548.50,,Marketplace,Chihuahua
+10/10/2025,Vestido Floral Summer,Moda,1,1099,1099,Móvil App,
+10/11/2025,Serum Vitamina C 30ml,Belleza,2,658.50,1317,Marketplace,Nuevo León
+10/11/2025,Tenis Runner Air,Moda,2,2199,4398,Online,Jalisco
+10/11/2025,Sudadera Hoodie Urban,Moda,1,898.50,898.50,Online,Jalisco
+10/12/2025,Rizador de Pelas Digital,Belleza,1,898.50,898.50,Marketplace,Nuevo León
+10/12/2025,Laptop Pro 14,Electrónica,2,18999,37998,Marketplace,
+10/12/2025,Bicicleta Urbana R26,Deportes,1,7999,7999,Móvil App,CDMX
+10/12/2025,Consola Next X,Electrónica,2,13999,27998,Móvil App,Jalisco
+10/12/2025,Peluche Oso Gigante 1.5m,Juguetes,,549,549,Marketplace,Chihuahua
+11/01/2026,Serum Vitamina C 30ml,Belleza,2,626,1252,Móvil App,CDMX
+11/01/2026,,Belleza,1,659,659,,Puebla
+11/01/2026,Smartwatch Fit 3,Electrónica,2,2639,5278,Marketplace,Yucatán
+11/01/2026,Licuadora Turbo 1200W,Hogar,1,1698.50,1698.50,Marketplace,Nuevo León
+11/02/2026,Vestido Floral Summer,Moda,6,1098.50,6591,Marketplace,Chihuahua
+11/02/2026,Rizador de Pelas Digital,Belleza,6,899,5394,Online,
+11/02/2026,Lámpara LED Inteligente,Hogar,1,549,549,,CDMX
+11/02/2026,Smart TV 55'',Electrónica,2,9199,18398,Online,CDMX
+11/02/2026,,Deportes,1,649,649,Marketplace,CDMX
+11/02/2026,Serum Vitamina C 30ml,Belleza,2,659,1318,Online,Nuevo León
+11/02/2026,Juego de Mesa Familiar,Juguetes,2,449,898,Online,Puebla
+11/02/2026,Set de Sábanas Queen 600h,Hogar,2,1079,2158,Marketplace,
+11/09/2025,Vestido Floral Summer,Moda,1,1044,1044,Marketplace,CDMX
+11/09/2025,Bolso de Cuero Milano,Moda,1,1898.50,1898.50,Online,Jalisco
+11/09/2025,Aspiradora Robot Clean+,Hogar,2,5998.50,11997,Marketplace,CDMX
+11/09/2025,Serum Vitamina C 30ml,Belleza,6,659,3954,Tienda física,
+11/09/2025,Lámpara LED Inteligente,Hogar,1,467,467,Marketplace,Jalisco
+11/09/2025,Balón Soccer Pro FIFA,Deportes,1,549,549,Móvil App,Jalisco
+11/09/2025,,Electrónica,1,2499,2499,Online,CDMX
+11/09/2025,Serum Vitamina C 30ml,Belleza,2,560,1120,Tienda física,Nuevo León
+11/09/2025,Sudadera Hoodie Urban,Moda,2,809,1618,Marketplace,Puebla
+11/09/2025,Rizador de Pelas Digital,Belleza,1,899,899,Marketplace,Puebla
+11/09/2025,Consola Next X,Electrónica,2,10499,20998,Online,
+11/09/2025,Rizador de Pelas Digital,Belleza,2,899,1798,Online,Nuevo León
+11/10/2025,Bicicleta Urbana R26,Deportes,3,7999,23997,Móvil App,Jalisco
+11/10/2025,Chamarra Denim Classic,Moda,1,1298.50,1298.50,Marketplace,CDMX
+11/10/2025,Teclado Mecánico RGB,Electrónica,2,1439,2878,Online,Chihuahua
+11/10/2025,Set de Sábanas Queen 600h,Hogar,3,1199,3597,Tienda física,Puebla
+11/11/2025,Consola Next X,Electrónica,3,13999,41997,Marketplace,Jalisco
+11/11/2025,Laptop Pro 14,Electrónica,1,16149,16149,Marketplace,Puebla
+11/11/2025,Purificador de Aire Mini,Hogar,1,2464,2464,Marketplace,
+11/11/2025,Juego de Ollas Antiadherentes,Hogar,1,2399,2399,Online,Jalisco
+11/12/2025,Audífonos ANC Studio,Electrónica,2,2499,4998,Tienda física,CDMX
+11/12/2025,Cafetera Espresso Deluxe,Hogar,2,4599,9198,Tienda física,Puebla
+11/12/2025,Vestido Floral Summer,Moda,1,934,934,Marketplace,CDMX
+11/12/2025,Rizador de Pelas Digital,Belleza,1,899,899,Online,Yucatán
+12/01/2026,Dron Junior HD,Juguetes,1,1599,1599,Online,Nuevo León
+12/01/2026,Balón Soccer Pro FIFA,Deportes,1,549,549,,Chihuahua
+12/01/2026,Secadora Iónica 2200W,Belleza,1,1274,,Marketplace,Yucatán
+12/01/2026,Balón Soccer Pro FIFA,Deportes,2,549,1098,Móvil App,CDMX
+12/02/2026,Smart TV 55'',Electrónica,1,,11499,Marketplace,Jalisco
+12/02/2026,Laptop Pro 14,Electrónica,2,18999,37998,Marketplace,CDMX
+12/02/2026,Tablet Galaxy 10",Electrónica,3,6499,19497,Online,Nuevo León
+12/02/2026,Laptop Pro 14,Electrónica,5,18998.50,94992.50,Online,CDMX
+12/02/2026,Perfume Noir Intense 100ml,Belleza,2,1899,3798,Online,Jalisco
+12/02/2026,Laptop Pro 14,Electrónica,1,18999,18999,,Chihuahua
+12/09/2025,,Deportes,1,299,299,Online,Yucatán
+12/09/2025,Kit Bandas Elásticas,Deportes,5,299,1495,Tienda física,Nuevo León
+12/09/2025,Set de Sábanas Queen 600h,Hogar,3,1199,3597,Online,CDMX
+12/09/2025,Peluche Oso Gigante 1.5m,Juguetes,1,,549,Marketplace,Yucatán
+12/09/2025,Rizador de Pelas Digital,Belleza,2,719,1438,Online,Jalisco
+,Set Ciencia Experimentos,Juguetes,2,503,1006,Online,CDMX
+12/10/2025,Laptop Pro 14,Electrónica,1,18998.50,18998.50,,CDMX
+12/10/2025,Smart TV 55'',Electrónica,1,11499,11499,Marketplace,Yucatán
+12/10/2025,Tenis Runner Air,Moda,1,2089,2089,Marketplace,Yucatán
+12/10/2025,Serum Vitamina C 30ml,Belleza,,494,494,Marketplace,Puebla
+12/10/2025,Yoga Mat Premium,Deportes,2,648.50,1297,Tienda física,Nuevo León
+12/10/2025,Peluche Oso Gigante 1.5m,Juguetes,2,549,1098,Online,Puebla
+12/10/2025,Paleta de Sombras Nude,Belleza,1,499,499,Tienda física,Puebla
+12/11/2025,Balón Soccer Pro FIFA,Deportes,1,549,549,Marketplace,Nuevo León
+12/11/2025,Pantalón Chino Slim,Moda,2,948.50,1897,Tienda física,Nuevo León
+12/11/2025,Casco Ciclismo Aero,Deportes,1,1299,1299,Móvil App,CDMX
+12/11/2025,Paleta de Sombras Nude,Belleza,1,474,474,Online,
+12/12/2025,Aspiradora Robot Clean+,Hogar,1,5998.50,5998.50,,CDMX
+12/12/2025,Paleta de Sombras Nude,Belleza,1,499,499,Online,Jalisco
+12/12/2025,Smart TV 55'',Electrónica,2,,22998,Online,CDMX
+12/12/2025,,Belleza,1,1899,1899,Online,CDMX
+13/01/2026,Kit Bandas Elásticas,Deportes,1,299,299,Online,CDMX
+13/01/2026,Set Ciencia Experimentos,Juguetes,2,598,1196,Marketplace,Yucatán
+13/01/2026,Laptop Pro 14,Electrónica,2,18999,37998,Online,Puebla
+13/01/2026,Peluche Oso Gigante 1.5m,Juguetes,1,,439,Online,CDMX
+13/02/2026,Kit Bandas Elásticas,Deportes,3,299,897,Tienda física,CDMX
+13/02/2026,Teclado Mecánico RGB,Electrónica,,1599,3198,Tienda física,Jalisco
+13/02/2026,Cámara Action Go,Electrónica,2,7998.50,15997,Online,Puebla
+13/02/2026,Juego de Ollas Antiadherentes,Hogar,1,2399,2399,Online,Jalisco
+13/02/2026,Consola Next X,Electrónica,1,11899,11899,Móvil App,Jalisco
+13/02/2026,Bolso de Cuero Milano,Moda,1,1898.50,1898.50,Online,Yucatán
+13/09/2025,Kit Bandas Elásticas,Deportes,3,299,897,Online,CDMX
+13/09/2025,Auto RC Turbo Rally,Juguetes,1,779,779,Marketplace,Jalisco
+13/09/2025,Bicicleta Urbana R26,Deportes,1,7999,,Marketplace,CDMX
+13/09/2025,Secadora Iónica 2200W,Belleza,1,1498.50,1498.50,Online,Yucatán
+13/10/2025,Tenis Runner Air,Moda,4,2199,8796,Marketplace,Puebla
+13/10/2025,Barra de Sonido 2.1,Electrónica,1,3499,3499,Marketplace,CDMX
+13/10/2025,Barra de Sonido 2.1,Electrónica,1,3499,3499,Online,Puebla
+13/11/2025,Consola Next X,Electrónica,3,13998.50,41995.50,Tienda física,Jalisco
+13/11/2025,Crema Hidratante Aloe,Belleza,2,389,778,Marketplace,Chihuahua
+13/11/2025,Barra de Sonido 2.1,Electrónica,2,3499,6998,Online,CDMX
+13/11/2025,Dron Junior HD,Juguetes,1,1599,1599,Tienda física,Jalisco
+13/12/2025,Licuadora Turbo 1200W,Hogar,2,1699,3398,Tienda física,Nuevo León
+13/12/2025,Secadora Iónica 2200W,Belleza,1,1499,1499,Online,Nuevo León
+13/12/2025,Tablet Galaxy 10",Electrónica,1,6499,,Móvil App,Yucatán
+13/12/2025,Laptop Pro 14,Electrónica,2,18998.50,37997,Online,
+14/01/2026,Serum Vitamina C 30ml,Belleza,1,658.50,658.50,,
+14/01/2026,Peluche Oso Gigante 1.5m,Juguetes,1,548.50,548.50,Móvil App,CDMX
+14/01/2026,Perfume Noir Intense 100ml,Belleza,1,1899,1899,Online,CDMX
+14/01/2026,Paleta de Sombras Nude,Belleza,3,499,1497,Marketplace,CDMX
+14/01/2026,Barra de Sonido 2.1,Electrónica,1,2799,2799,Tienda física,CDMX
+14/01/2026,Lámpara LED Inteligente,Hogar,3,549,1647,Móvil App,CDMX
+14/02/2026,Casco Ciclismo Aero,Deportes,2,1299,2598,Marketplace,Jalisco
+14/02/2026,Serum Vitamina C 30ml,Belleza,3,626,1878,Móvil App,Puebla
+14/02/2026,Serum Vitamina C 30ml,Belleza,1,560,560,Marketplace,
+14/09/2025,Pantalón Chino Slim,Moda,1,949,,Móvil App,Yucatán
+14/09/2025,Lentes de Sol Retro,Moda,2,759,1518,Marketplace,Chihuahua
+14/09/2025,Lentes de Sol Retro,Moda,,759,1518,Tienda física,CDMX
+14/09/2025,Aspiradora Robot Clean+,Hogar,1,5099,5099,Marketplace,Chihuahua
+14/09/2025,Laptop Pro 14,Electrónica,,18998.50,37997,Online,Yucatán
+14/09/2025,Yoga Mat Premium,Deportes,5,649,3245,Tienda física,Nuevo León
+14/10/2025,Pantalón Chino Slim,Moda,1,948.50,948.50,Online,Chihuahua
+14/10/2025,Set de Sábanas Queen 600h,Hogar,5,1199,5995,Marketplace,Nuevo León
+14/11/2025,Bloques Creativos 500pz,Juguetes,1,899,899,Tienda física,CDMX
+14/11/2025,Chamarra Denim Classic,Moda,2,1104,2208,Tienda física,Yucatán
+14/11/2025,Aspiradora Robot Clean+,Hogar,1,5998.50,5998.50,Marketplace,Jalisco
+14/11/2025,Paleta de Sombras Nude,Belleza,1,499,499,Online,Jalisco
+14/11/2025,Secadora Iónica 2200W,Belleza,1,1499,1499,Marketplace,Puebla
+14/11/2025,Barra de Sonido 2.1,Electrónica,2,2974,5948,Marketplace,CDMX
+14/12/2025,Licuadora Turbo 1200W,Hogar,3,1359,4077,Online,
+14/12/2025,Set de Sábanas Queen 600h,Hogar,2,1199,2398,Online,CDMX
+14/12/2025,Paleta de Sombras Nude,Belleza,1,499,499,Online,CDMX
+15/01/2026,Yoga Mat Premium,Deportes,1,552,552,Marketplace,Puebla
+15/01/2026,Peluche Oso Gigante 1.5m,Juguetes,2,549,1098,Tienda física,Puebla
+15/01/2026,Audífonos ANC Studio,Electrónica,3,2124,6372,Tienda física,Puebla
+15/01/2026,Consola Next X,Electrónica,2,13998.50,27997,Online,Nuevo León
+15/01/2026,Lentes de Sol Retro,Moda,1,758.50,758.50,Online,CDMX
+15/01/2026,Teclado Mecánico RGB,Electrónica,2,1598.50,3197,Móvil App,
+15/02/2026,Consola Next X,Electrónica,2,13299,26598,Móvil App,Jalisco
+15/02/2026,,Deportes,2,,1097,Móvil App,Chihuahua
+15/02/2026,Auto RC Turbo Rally,Juguetes,2,779,1558,Marketplace,CDMX
+15/02/2026,Cafetera Espresso Deluxe,Hogar,3,4369,13107,Móvil App,Yucatán
+15/02/2026,Perfume Noir Intense 100ml,Belleza,1,1899,1899,Tienda física,CDMX
+15/09/2025,Juego de Ollas Antiadherentes,Hogar,3,2398.50,7195.50,Online,Puebla
+15/09/2025,Crema Hidratante Aloe,Belleza,1,389,389,Móvil App,CDMX
+15/09/2025,Auto RC Turbo Rally,Juguetes,1,779,779,Online,Yucatán
+15/09/2025,Dron Junior HD,Juguetes,1,1599,1599,Online,Chihuahua
+15/09/2025,Vestido Floral Summer,Moda,3,1099,3297,Marketplace,CDMX
+15/10/2025,Smartwatch Fit 3,Electrónica,4,3299,13196,Online,Yucatán
+15/10/2025,Serum Vitamina C 30ml,Belleza,1,659,659,Tienda física,Puebla
+15/10/2025,Laptop Pro 14,Electrónica,3,18999,56997,Online,CDMX
+15/10/2025,Tenis Runner Air,Moda,1,1869,1869,Online,Jalisco
+15/10/2025,Smartwatch Fit 3,Electrónica,,3298.50,6597,Móvil App,Chihuahua
+15/10/2025,Lentes de Sol Retro,Moda,1,607,607,Online,Puebla
+15/11/2025,Smartphone X5,Electrónica,1,8999,8999,Marketplace,CDMX
+15/11/2025,Casco Ciclismo Aero,Deportes,1,1299,1299,Online,CDMX
+15/11/2025,Set de Sábanas Queen 600h,Hogar,3,1198.50,3595.50,Online,Puebla
+15/12/2025,Crema Hidratante Aloe,Belleza,1,350,350,Marketplace,Jalisco
+15/12/2025,Smart TV 55'',Electrónica,1,11499,11499,Online,Yucatán
+15/12/2025,Audífonos ANC Studio,Electrónica,1,2499,2499,Online,CDMX
+15/12/2025,Licuadora Turbo 1200W,Hogar,2,1699,,Online,Chihuahua
+15/12/2025,Lámpara LED Inteligente,Hogar,3,549,,Tienda física,Yucatán
+16/01/2026,Consola Next X,Electrónica,1,13998.50,13998.50,Marketplace,Chihuahua
+16/01/2026,Rizador de Pelas Digital,Belleza,1,899,899,Online,Chihuahua
+16/01/2026,Kit Bandas Elásticas,Deportes,1,299,299,Online,Nuevo León
+16/01/2026,Set Ciencia Experimentos,Juguetes,1,628.50,628.50,Online,Nuevo León
+16/01/2026,Casco Ciclismo Aero,Deportes,2,1169,2338,Online,
+16/02/2026,Teclado Mecánico RGB,Electrónica,2,1599,3198,Online,CDMX
+16/02/2026,Juego de Ollas Antiadherentes,Hogar,1,2399,2399,Marketplace,Nuevo León
+16/09/2025,Smart TV 55'',Electrónica,2,11499,22998,Online,Puebla
+16/09/2025,Consola Next X,Electrónica,1,12599,12599,Marketplace,Jalisco
+16/09/2025,Teclado Mecánico RGB,Electrónica,1,1599,1599,Marketplace,CDMX
+16/09/2025,,Moda,1,1899,1899,Tienda física,CDMX
+16/10/2025,Crema Hidratante Aloe,Belleza,1,350,350,Online,Yucatán
+16/10/2025,Auto RC Turbo Rally,Juguetes,4,779,3116,Online,
+16/10/2025,Cámara Action Go,Electrónica,,7999,15998,Móvil App,Chihuahua
+16/10/2025,Licuadora Turbo 1200W,Hogar,1,1698.50,1698.50,Marketplace,CDMX
+16/11/2025,Laptop Pro 14,Electrónica,3,18998.50,56995.50,Online,Jalisco
+16/11/2025,Licuadora Turbo 1200W,Hogar,1,1699,1699,Marketplace,Nuevo León
+16/12/2025,Teclado Mecánico RGB,Electrónica,1,1599,1599,Online,CDMX
+16/12/2025,Rizador de Pelas Digital,Belleza,1,899,899,Marketplace,
+16/12/2025,Chamarra Denim Classic,Moda,1,1298.50,1298.50,Marketplace,Chihuahua
+16/12/2025,Auto RC Turbo Rally,Juguetes,1,779,779,Online,
+16/12/2025,Sudadera Hoodie Urban,Moda,3,899,2697,Marketplace,Puebla
+16/12/2025,Lámpara LED Inteligente,Hogar,6,494,2964,Tienda física,Nuevo León
+16/12/2025,Lámpara LED Inteligente,Hogar,1,548.50,548.50,Móvil App,Nuevo León
+16/12/2025,Pantalón Chino Slim,Moda,2,949,1898,Marketplace,Puebla
+17/01/2026,Purificador de Aire Mini,Hogar,1,2898.50,2898.50,Tienda física,Yucatán
+17/01/2026,Aspiradora Robot Clean+,Hogar,3,5099,15297,Marketplace,Puebla
+17/01/2026,Teclado Mecánico RGB,Electrónica,1,1598.50,1598.50,Tienda física,Jalisco
+17/01/2026,Auto RC Turbo Rally,Juguetes,2,779,1558,Tienda física,CDMX
+17/02/2026,Tenis Runner Air,Moda,1,2199,2199,Online,Puebla
+17/02/2026,Laptop Pro 14,Electrónica,6,18999,113994,Marketplace,CDMX
+17/02/2026,Vestido Floral Summer,Moda,1,1099,1099,Tienda física,Yucatán
+17/02/2026,Smart TV 55'',Electrónica,3,11499,34497,Online,Jalisco
+17/02/2026,Teclado Mecánico RGB,Electrónica,1,1599,1599,,Puebla
+17/02/2026,Mancuernas Ajustables 10kg,Deportes,,999,1998,Online,Chihuahua
+17/02/2026,Set de Sábanas Queen 600h,Hogar,4,899,3596,Marketplace,Nuevo León
+17/02/2026,Set Ciencia Experimentos,Juguetes,1,598,598,Online,Puebla
+17/02/2026,Juego de Ollas Antiadherentes,Hogar,1,2399,2399,Online,Nuevo León
+17/09/2025,Juego de Ollas Antiadherentes,Hogar,1,1799,1799,Tienda física,
+17/09/2025,Audífonos ANC Studio,Electrónica,2,2499,4998,Móvil App,Puebla
+17/09/2025,Mancuernas Ajustables 10kg,Deportes,1,999,999,Tienda física,Puebla
+17/09/2025,Lámpara LED Inteligente,Hogar,2,548.50,1097,Marketplace,Nuevo León
+17/09/2025,Cafetera Espresso Deluxe,Hogar,5,4599,22995,Online,CDMX
+17/10/2025,Pantalón Chino Slim,Moda,1,948.50,948.50,Marketplace,
+17/10/2025,Auto RC Turbo Rally,Juguetes,2,779,1558,Tienda física,Yucatán
+17/10/2025,Purificador de Aire Mini,Hogar,,2899,2899,Móvil App,Yucatán
+17/10/2025,Yoga Mat Premium,Deportes,1,649,649,Móvil App,Puebla
+17/11/2025,Auto RC Turbo Rally,Juguetes,1,779,779,Marketplace,CDMX
+17/11/2025,Chamarra Denim Classic,Moda,2,1299,2598,Online,Jalisco
+17/12/2025,Lentes de Sol Retro,Moda,1,759,759,Tienda física,
+17/12/2025,Cafetera Espresso Deluxe,Hogar,1,4598.50,4598.50,Marketplace,Chihuahua
+17/12/2025,Perfume Noir Intense 100ml,Belleza,3,1899,5697,Online,CDMX
+18/01/2026,Sudadera Hoodie Urban,Moda,2,899,1798,Online,Chihuahua
+18/01/2026,Peluche Oso Gigante 1.5m,Juguetes,,549,549,Online,Jalisco
+18/01/2026,Serum Vitamina C 30ml,Belleza,1,659,659,Marketplace,Puebla
+18/01/2026,Perfume Noir Intense 100ml,Belleza,1,1519,1519,Marketplace,Jalisco
+,Audífonos ANC Studio,Electrónica,1,2499,2499,Online,Nuevo León
+18/01/2026,Lentes de Sol Retro,Moda,2,759,1518,,Jalisco
+18/01/2026,Smart TV 55'',Electrónica,1,11499,11499,Marketplace,Jalisco
+18/02/2026,Rizador de Pelas Digital,Belleza,1,898.50,898.50,Tienda física,Jalisco
+18/02/2026,Cafetera Espresso Deluxe,Hogar,1,4599,4599,Tienda física,Chihuahua
+18/02/2026,Secadora Iónica 2200W,Belleza,1,1499,1499,Tienda física,
+18/02/2026,,Belleza,1,659,659,Marketplace,CDMX
+18/02/2026,Crema Hidratante Aloe,Belleza,1,370,370,Online,Yucatán
+18/02/2026,Consola Next X,Electrónica,4,13999,55996,Tienda física,
+18/02/2026,Camiseta Basic Cotton,Moda,1,399,399,Online,CDMX
+18/09/2025,Aspiradora Robot Clean+,Hogar,2,5399,10798,Marketplace,Yucatán
+18/09/2025,Kit Bandas Elásticas,Deportes,1,299,299,Online,CDMX
+18/09/2025,Auto RC Turbo Rally,Juguetes,2,779,1558,Tienda física,CDMX
+18/09/2025,Set Ciencia Experimentos,Juguetes,2,628.50,1257,Tienda física,
+18/09/2025,Tenis Runner Air,Moda,5,1649,8245,Marketplace,Chihuahua
+18/10/2025,Licuadora Turbo 1200W,Hogar,2,1698.50,3397,,Jalisco
+18/10/2025,Vestido Floral Summer,Moda,2,1099,2198,Tienda física,Jalisco
+18/10/2025,Consola Next X,Electrónica,1,13998.50,13998.50,Tienda física,Puebla
+18/10/2025,Paleta de Sombras Nude,Belleza,4,499,1996,Móvil App,Jalisco
+18/10/2025,Laptop Pro 14,Electrónica,,18999,113994,Marketplace,Nuevo León
+18/10/2025,Mancuernas Ajustables 10kg,Deportes,2,999,1998,Marketplace,CDMX
+18/10/2025,Pantalón Chino Slim,Moda,2,949,1898,Marketplace,Yucatán
+18/10/2025,Teclado Mecánico RGB,Electrónica,1,1598.50,1598.50,Online,
+18/10/2025,Paleta de Sombras Nude,Belleza,3,499,,Tienda física,Nuevo León
+18/10/2025,Barra de Sonido 2.1,Electrónica,3,3499,10497,Online,Nuevo León
+18/10/2025,,Hogar,3,548.50,1645.50,Móvil App,Puebla
+18/10/2025,Teclado Mecánico RGB,Electrónica,1,1598.50,1598.50,Tienda física,Puebla
+18/11/2025,Audífonos ANC Studio,Electrónica,2,2499,4998,Online,Chihuahua
+18/11/2025,Laptop Pro 14,Electrónica,2,18998.50,37997,Tienda física,CDMX
+18/11/2025,Paleta de Sombras Nude,Belleza,1,499,499,Marketplace,Chihuahua
+18/11/2025,Dron Junior HD,Juguetes,2,1199,,Marketplace,Jalisco
+18/11/2025,Audífonos ANC Studio,Electrónica,1,2499,2499,Online,CDMX
+18/12/2025,Lentes de Sol Retro,Moda,1,683,683,Tienda física,CDMX
+18/12/2025,Set de Sábanas Queen 600h,Hogar,1,1199,1199,Tienda física,CDMX
+18/12/2025,Cámara Action Go,Electrónica,3,6399,19197,Marketplace,CDMX
+18/12/2025,Lentes de Sol Retro,Moda,3,758.50,2275.50,Online,Jalisco
+18/12/2025,Bicicleta Urbana R26,Deportes,1,7999,7999,Marketplace,Puebla
+19/01/2026,Paleta de Sombras Nude,Belleza,1,499,499,Móvil App,CDMX
+19/01/2026,Consola Next X,Electrónica,1,10499,10499,Marketplace,Chihuahua
+19/02/2026,Audífonos ANC Studio,Electrónica,1,2499,2499,Tienda física,
+19/02/2026,Kit Bandas Elásticas,Deportes,1,224,224,Marketplace,Yucatán
+,Tablet Galaxy 10",Electrónica,1,6499,6499,Online,Chihuahua
+19/02/2026,Audífonos ANC Studio,Electrónica,2,2498.50,4997,Online,Chihuahua
+,,Electrónica,2,6498.50,12997,Online,Nuevo León
+19/09/2025,Pantalón Chino Slim,Moda,2,759,1518,Online,Jalisco
+19/09/2025,Smartwatch Fit 3,Electrónica,2,3298.50,6597,Online,Jalisco
+19/09/2025,Teclado Mecánico RGB,Electrónica,1,1599,1599,Móvil App,
+19/09/2025,Kit Bandas Elásticas,Deportes,1,299,299,Marketplace,Nuevo León
+19/09/2025,Teclado Mecánico RGB,Electrónica,2,1599,3198,Marketplace,
+19/10/2025,Bicicleta Urbana R26,Deportes,4,7599,,Online,
+19/11/2025,Secadora Iónica 2200W,Belleza,1,1498.50,1498.50,Online,
+19/11/2025,Casco Ciclismo Aero,Deportes,1,1299,,Online,Chihuahua
+19/11/2025,Mancuernas Ajustables 10kg,Deportes,1,999,999,Marketplace,Chihuahua
+19/12/2025,Kit Bandas Elásticas,Deportes,1,299,299,Online,Yucatán
+19/12/2025,Barra de Sonido 2.1,Electrónica,5,3498.50,17492.50,Online,CDMX
+19/12/2025,,Belleza,2,659,1318,Online,Yucatán
+19/12/2025,Smartphone X5,Electrónica,3,8999,26997,Online,Puebla
+20/01/2026,Juego de Mesa Familiar,Juguetes,1,449,449,Marketplace,Nuevo León
+20/01/2026,Camiseta Basic Cotton,Moda,2,339,678,Online,Jalisco
+20/01/2026,Tablet Galaxy 10",Electrónica,2,5849,11698,Marketplace,Nuevo León
+20/01/2026,Yoga Mat Premium,Deportes,1,649,649,Móvil App,Yucatán
+20/01/2026,Bloques Creativos 500pz,Juguetes,1,764,764,Marketplace,CDMX
+20/01/2026,Vestido Floral Summer,Moda,1,1099,1099,Online,Puebla
+20/02/2026,Set Ciencia Experimentos,Juguetes,2,503,1006,Marketplace,Nuevo León
+20/02/2026,Cámara Action Go,Electrónica,1,7999,7999,Móvil App,Chihuahua
+20/02/2026,Cámara Action Go,Electrónica,3,7999,23997,Móvil App,
+20/02/2026,Perfume Noir Intense 100ml,Belleza,3,1899,5697,Online,Yucatán
+20/09/2025,Pantalón Chino Slim,Moda,1,948.50,948.50,Online,Yucatán
+20/09/2025,Bolso de Cuero Milano,Moda,1,1899,,Tienda física,CDMX
+20/09/2025,Balón Soccer Pro FIFA,Deportes,1,548.50,548.50,Móvil App,Puebla
+20/09/2025,,Electrónica,1,1519,1519,Móvil App,
+20/10/2025,Set Ciencia Experimentos,Juguetes,2,535,1070,Marketplace,Nuevo León
+20/10/2025,Bicicleta Urbana R26,Deportes,1,7999,7999,Online,Jalisco
+20/10/2025,Bloques Creativos 500pz,Juguetes,2,898.50,1797,Marketplace,CDMX
+20/10/2025,Audífonos ANC Studio,Electrónica,1,2499,2499,Móvil App,Nuevo León
+20/10/2025,Licuadora Turbo 1200W,Hogar,1,1699,1699,Online,Jalisco
+20/11/2025,,Electrónica,3,6499,19497,Tienda física,Jalisco
+20/11/2025,Smartphone X5,Electrónica,1,8998.50,,Tienda física,CDMX
+20/11/2025,Juego de Mesa Familiar,Juguetes,2,449,,Tienda física,CDMX
+20/11/2025,Kit Bandas Elásticas,Deportes,2,299,598,Móvil App,CDMX
+20/12/2025,Bloques Creativos 500pz,Juguetes,2,,1798,Online,Nuevo León
+20/12/2025,Bloques Creativos 500pz,Juguetes,2,899,1798,Online,Nuevo León
+20/12/2025,Tenis Runner Air,Moda,2,2089,4178,Online,Jalisco
+20/12/2025,Auto RC Turbo Rally,Juguetes,1,778.50,778.50,Online,CDMX
+20/12/2025,Lentes de Sol Retro,Moda,2,758.50,1517,Online,Jalisco
+20/12/2025,Dron Junior HD,Juguetes,1,1599,1599,Online,CDMX
+20/12/2025,Tablet Galaxy 10",Electrónica,2,6499,12998,Online,Nuevo León
+20/12/2025,Rizador de Pelas Digital,Belleza,6,899,,Online,
+20/12/2025,Yoga Mat Premium,Deportes,2,584,1168,Online,Puebla
+21/01/2026,Casco Ciclismo Aero,Deportes,1,1299,1299,Marketplace,CDMX
+21/01/2026,Tenis Runner Air,Moda,1,1759,1759,Marketplace,Chihuahua
+21/01/2026,Auto RC Turbo Rally,Juguetes,3,623,1869,Móvil App,Chihuahua
+21/01/2026,Set de Sábanas Queen 600h,Hogar,1,1019,1019,Marketplace,CDMX
+21/01/2026,,Moda,1,2198.50,2198.50,Online,CDMX
+21/01/2026,Cafetera Espresso Deluxe,Hogar,1,3679,3679,Online,Puebla
+21/01/2026,Balón Soccer Pro FIFA,Deportes,1,549,549,Online,
+21/01/2026,Set de Sábanas Queen 600h,Hogar,1,1199,1199,Online,Puebla
+21/01/2026,Laptop Pro 14,Electrónica,2,18999,37998,Móvil App,Jalisco
+21/01/2026,Mancuernas Ajustables 10kg,Deportes,4,998.50,3994,Tienda física,Yucatán
+21/02/2026,Perfume Noir Intense 100ml,Belleza,3,1899,5697,Marketplace,
+21/02/2026,Sudadera Hoodie Urban,Moda,2,899,1798,Marketplace,CDMX
+21/02/2026,,Juguetes,2,549,1098,,Nuevo León
+21/02/2026,Auto RC Turbo Rally,Juguetes,3,778.50,2335.50,Móvil App,CDMX
+21/02/2026,Teclado Mecánico RGB,Electrónica,2,1439,2878,Marketplace,Nuevo León
+21/02/2026,Cámara Action Go,Electrónica,1,7599,7599,Online,
+21/02/2026,Laptop Pro 14,Electrónica,1,18999,18999,Móvil App,Nuevo León
+21/09/2025,Cámara Action Go,Electrónica,1,7999,7999,Marketplace,CDMX
+21/09/2025,Kit Bandas Elásticas,Deportes,2,299,598,Online,Jalisco
+21/10/2025,Bolso de Cuero Milano,Moda,3,1898.50,5695.50,,Jalisco
+21/10/2025,Barra de Sonido 2.1,Electrónica,3,3499,10497,Marketplace,Chihuahua
+21/10/2025,Crema Hidratante Aloe,Belleza,3,389,1167,Marketplace,
+21/10/2025,Juego de Ollas Antiadherentes,Hogar,1,2399,2399,Online,Jalisco
+21/10/2025,Pantalón Chino Slim,Moda,1,948.50,948.50,Marketplace,CDMX
+21/10/2025,Barra de Sonido 2.1,Electrónica,2,2624,5248,Marketplace,
+21/10/2025,Auto RC Turbo Rally,Juguetes,1,778.50,778.50,Marketplace,CDMX
+21/10/2025,Laptop Pro 14,Electrónica,2,18998.50,37997,Online,CDMX
+21/11/2025,Camiseta Basic Cotton,Moda,2,399,798,Tienda física,Jalisco
+21/11/2025,Smartwatch Fit 3,Electrónica,1,3299,3299,Online,CDMX
+21/11/2025,Camiseta Basic Cotton,Moda,1,399,399,Tienda física,Nuevo León
+21/11/2025,Smart TV 55'',Electrónica,2,11498.50,22997,Online,
+21/11/2025,Tablet Galaxy 10",Electrónica,1,5199,5199,Tienda física,CDMX
+21/12/2025,Smartphone X5,Electrónica,2,8999,17998,Tienda física,Jalisco
+21/12/2025,,Deportes,1,7999,7999,Online,CDMX
+21/12/2025,Barra de Sonido 2.1,Electrónica,2,2624,5248,Online,Puebla
+22/01/2026,Smart TV 55'',Electrónica,2,10349,20698,Online,Chihuahua
+22/01/2026,Vestido Floral Summer,Moda,1,1099,1099,,
+22/01/2026,Vestido Floral Summer,Moda,4,,4396,Online,Puebla
+22/01/2026,Set de Sábanas Queen 600h,Hogar,1,1199,1199,Móvil App,CDMX
+22/01/2026,Bolso de Cuero Milano,Moda,1,1899,1899,Marketplace,Jalisco
+22/02/2026,Auto RC Turbo Rally,Juguetes,1,779,779,Marketplace,Nuevo León
+22/02/2026,Sudadera Hoodie Urban,Moda,2,899,1798,Online,Nuevo León
+,Paleta de Sombras Nude,Belleza,2,499,998,Marketplace,
+22/02/2026,Dron Junior HD,Juguetes,3,1199,3597,Móvil App,Puebla
+22/09/2025,Casco Ciclismo Aero,Deportes,2,,1948,Tienda física,CDMX
+22/09/2025,Dron Junior HD,Juguetes,3,1599,4797,Online,Jalisco
+22/09/2025,Smart TV 55'',Electrónica,1,11498.50,11498.50,Online,Nuevo León
+22/09/2025,Juego de Ollas Antiadherentes,Hogar,1,2399,2399,Marketplace,Nuevo León
+22/09/2025,Dron Junior HD,Juguetes,1,1598.50,1598.50,Móvil App,Nuevo León
+22/10/2025,Barra de Sonido 2.1,Electrónica,2,3498.50,6997,Marketplace,CDMX
+22/10/2025,Bloques Creativos 500pz,Juguetes,1,899,899,Marketplace,CDMX
+22/10/2025,Purificador de Aire Mini,Hogar,1,2899,2899,Tienda física,Puebla
+22/10/2025,Aspiradora Robot Clean+,Hogar,1,5399,5399,Marketplace,Puebla
+22/10/2025,,Deportes,2,549,1098,Online,Puebla
+22/11/2025,Serum Vitamina C 30ml,Belleza,6,626,3756,Marketplace,CDMX
+22/11/2025,Set Ciencia Experimentos,Juguetes,2,629,1258,Marketplace,Nuevo León
+22/11/2025,Banda de Correr Plegable,Deportes,1,9374,9374,,Nuevo León
+22/12/2025,Juego de Ollas Antiadherentes,Hogar,3,,5757,Online,Puebla
+22/12/2025,Peluche Oso Gigante 1.5m,Juguetes,2,522,1044,Online,CDMX
+,Banda de Correr Plegable,Deportes,2,12499,24998,Marketplace,Jalisco
+22/12/2025,Cafetera Espresso Deluxe,Hogar,3,4599,13797,Marketplace,
+22/12/2025,Auto RC Turbo Rally,Juguetes,1,779,779,Marketplace,Puebla
+23/01/2026,,Electrónica,1,3498.50,3498.50,Online,Yucatán
+23/01/2026,Aspiradora Robot Clean+,Hogar,1,5999,5999,Online,Jalisco
+23/01/2026,Licuadora Turbo 1200W,Hogar,2,1274,2548,Online,Yucatán
+23/01/2026,Cafetera Espresso Deluxe,Hogar,1,,4598.50,Online,
+23/01/2026,Barra de Sonido 2.1,Electrónica,1,2624,2624,Móvil App,Yucatán
+23/01/2026,Barra de Sonido 2.1,Electrónica,5,3498.50,17492.50,Marketplace,
+23/01/2026,Crema Hidratante Aloe,Belleza,1,350,350,Tienda física,Nuevo León
+23/02/2026,Camiseta Basic Cotton,Moda,1,399,399,Tienda física,Jalisco
+23/09/2025,Mancuernas Ajustables 10kg,Deportes,1,999,999,Marketplace,
+23/09/2025,Tenis Runner Air,Moda,1,2199,2199,,Nuevo León
+23/09/2025,Yoga Mat Premium,Deportes,1,649,649,Tienda física,Nuevo León
+23/10/2025,Juego de Ollas Antiadherentes,Hogar,3,2399,7197,Marketplace,CDMX
+23/10/2025,Paleta de Sombras Nude,Belleza,,499,499,Online,CDMX
+23/10/2025,Tenis Runner Air,Moda,3,1649,4947,Online,Puebla
+23/10/2025,Balón Soccer Pro FIFA,Deportes,1,522,522,Online,Chihuahua
+23/10/2025,Secadora Iónica 2200W,Belleza,2,1498.50,2997,Marketplace,Chihuahua
+23/11/2025,Chamarra Denim Classic,Moda,1,1169,1169,Online,Jalisco
+23/11/2025,,Electrónica,2,6499,12998,Tienda física,
+23/11/2025,Mancuernas Ajustables 10kg,Deportes,1,999,999,Online,Jalisco
+23/11/2025,Smartphone X5,Electrónica,1,8999,8999,Marketplace,CDMX
+23/11/2025,Consola Next X,Electrónica,2,13999,27998,Marketplace,Chihuahua
+23/11/2025,Balón Soccer Pro FIFA,Deportes,1,549,549,,Nuevo León
+23/11/2025,Tablet Galaxy 10",Electrónica,1,6498.50,6498.50,Online,
+23/12/2025,Tablet Galaxy 10",Electrónica,2,6499,12998,Online,Puebla
+23/12/2025,Juego de Mesa Familiar,Juguetes,2,,898,,Nuevo León
+24/01/2026,Bolso de Cuero Milano,Moda,2,1898.50,3797,Online,CDMX
+24/01/2026,Barra de Sonido 2.1,Electrónica,6,3499,20994,Online,Puebla
+24/01/2026,Rizador de Pelas Digital,Belleza,2,899,1798,Móvil App,Yucatán
+24/01/2026,Aspiradora Robot Clean+,Hogar,1,5999,5999,Marketplace,Jalisco
+24/01/2026,Vestido Floral Summer,Moda,2,1099,2198,Móvil App,Jalisco
+24/01/2026,Kit Bandas Elásticas,Deportes,1,299,299,Tienda física,Puebla
+24/02/2026,Tablet Galaxy 10",Electrónica,3,6174,18522,Tienda física,Chihuahua
+24/02/2026,Balón Soccer Pro FIFA,Deportes,1,548.50,548.50,Marketplace,Chihuahua
+24/02/2026,Vestido Floral Summer,Moda,1,1099,1099,Móvil App,Nuevo León
+24/02/2026,Juego de Ollas Antiadherentes,Hogar,1,2398.50,2398.50,Online,Jalisco
+24/02/2026,Secadora Iónica 2200W,Belleza,2,1499,2998,Tienda física,Chihuahua
+24/09/2025,Casco Ciclismo Aero,Deportes,2,1299,2598,Online,Puebla
+24/09/2025,Aspiradora Robot Clean+,Hogar,2,5999,11998,Móvil App,CDMX
+24/09/2025,Paleta de Sombras Nude,Belleza,2,499,998,Online,Puebla
+24/09/2025,Set Ciencia Experimentos,Juguetes,2,629,1258,Online,CDMX
+24/09/2025,Perfume Noir Intense 100ml,Belleza,3,1614,4842,Online,Chihuahua
+24/09/2025,Teclado Mecánico RGB,Electrónica,1,1599,1599,Online,CDMX
+24/09/2025,Aspiradora Robot Clean+,Hogar,2,5699,11398,Online,Jalisco
+24/09/2025,Mancuernas Ajustables 10kg,Deportes,1,999,999,Online,Yucatán
+24/09/2025,Dron Junior HD,Juguetes,1,1599,1599,Online,Yucatán
+24/09/2025,Laptop Pro 14,Electrónica,1,18999,18999,Marketplace,Chihuahua
+24/10/2025,Smartphone X5,Electrónica,2,8999,17998,Marketplace,Jalisco
+24/10/2025,Bicicleta Urbana R26,Deportes,1,7999,7999,Marketplace,CDMX
+24/10/2025,Smartphone X5,Electrónica,1,8998.50,8998.50,Marketplace,Jalisco
+24/10/2025,Rizador de Pelas Digital,Belleza,1,898.50,898.50,Marketplace,Puebla
+24/11/2025,Cámara Action Go,Electrónica,,7999,15998,Tienda física,CDMX
+24/11/2025,Smartwatch Fit 3,Electrónica,1,2804,2804,Online,
+24/11/2025,Smartphone X5,Electrónica,1,8999,8999,Tienda física,Jalisco
+24/11/2025,Laptop Pro 14,Electrónica,1,16149,16149,Online,Nuevo León
+24/11/2025,Serum Vitamina C 30ml,Belleza,1,560,560,Online,Jalisco
+24/12/2025,Juego de Ollas Antiadherentes,Hogar,1,2399,2399,Online,Puebla
+24/12/2025,Audífonos ANC Studio,Electrónica,6,2499,14994,Online,
+24/12/2025,Yoga Mat Premium,Deportes,1,552,,Online,CDMX
+24/12/2025,Aspiradora Robot Clean+,Hogar,2,5999,11998,Online,CDMX
+24/12/2025,Set Ciencia Experimentos,Juguetes,2,629,1258,Tienda física,Puebla
+24/12/2025,Teclado Mecánico RGB,Electrónica,1,1279,1279,Marketplace,Puebla
+25/01/2026,Tablet Galaxy 10",Electrónica,1,6499,6499,Marketplace,CDMX
+25/01/2026,Set Ciencia Experimentos,Juguetes,1,503,503,Online,Chihuahua
+25/01/2026,Kit Bandas Elásticas,Deportes,2,299,598,Móvil App,Nuevo León
+25/01/2026,Tablet Galaxy 10",Electrónica,2,5524,11048,Tienda física,Chihuahua
+25/02/2026,Laptop Pro 14,Electrónica,1,18999,18999,Online,CDMX
+25/02/2026,Banda de Correr Plegable,Deportes,1,9999,9999,Online,
+25/02/2026,Balón Soccer Pro FIFA,Deportes,1,548.50,548.50,Online,Yucatán
+25/09/2025,Purificador de Aire Mini,Hogar,1,2899,2899,Online,
+25/09/2025,Kit Bandas Elásticas,Deportes,1,299,299,Online,Yucatán
+25/09/2025,Bicicleta Urbana R26,Deportes,1,6399,6399,Marketplace,CDMX
+25/09/2025,Bloques Creativos 500pz,Juguetes,2,899,1798,,Yucatán
+25/10/2025,Pantalón Chino Slim,Moda,1,949,949,Marketplace,CDMX
+25/10/2025,Vestido Floral Summer,Moda,2,1099,2198,Móvil App,Yucatán
+25/10/2025,Peluche Oso Gigante 1.5m,Juguetes,1,494,494,Móvil App,Jalisco
+25/10/2025,Vestido Floral Summer,Moda,1,1098.50,1098.50,Online,Jalisco
+25/11/2025,Tenis Runner Air,Moda,1,2198.50,2198.50,Tienda física,Jalisco
+25/11/2025,,Deportes,2,12498.50,24997,Marketplace,CDMX
+25/11/2025,Smartphone X5,Electrónica,1,8999,8999,Online,Puebla
+25/11/2025,Yoga Mat Premium,Deportes,2,649,1298,Online,Yucatán
+25/11/2025,Smartwatch Fit 3,Electrónica,1,3299,3299,Marketplace,CDMX
+25/12/2025,Lentes de Sol Retro,Moda,1,758.50,,Marketplace,Puebla
+25/12/2025,,Electrónica,1,3299,,Online,Yucatán
+25/12/2025,Consola Next X,Electrónica,1,13999,13999,Móvil App,Jalisco
+25/12/2025,Aspiradora Robot Clean+,Hogar,1,5999,5999,Online,Chihuahua
+26/01/2026,Smartwatch Fit 3,Electrónica,2,3299,6598,Marketplace,CDMX
+26/01/2026,Cámara Action Go,Electrónica,1,7999,7999,Marketplace,Puebla
+26/01/2026,Laptop Pro 14,Electrónica,,18999,37998,Móvil App,Jalisco
+26/01/2026,Balón Soccer Pro FIFA,Deportes,2,549,1098,Online,CDMX
+26/01/2026,Audífonos ANC Studio,Electrónica,3,2498.50,7495.50,,Nuevo León
+26/02/2026,Tablet Galaxy 10",Electrónica,1,6498.50,6498.50,Online,Nuevo León
+26/02/2026,Cafetera Espresso Deluxe,Hogar,2,4599,9198,Online,Yucatán
+,Set de Sábanas Queen 600h,Hogar,1,1199,1199,Online,Jalisco
+26/09/2025,Yoga Mat Premium,Deportes,2,648.50,,,Jalisco
+26/09/2025,Teclado Mecánico RGB,Electrónica,2,1599,3198,Online,Jalisco
+26/09/2025,Auto RC Turbo Rally,Juguetes,2,778.50,1557,Tienda física,Yucatán
+26/09/2025,Cafetera Espresso Deluxe,Hogar,6,4599,27594,Online,
+,Smartphone X5,Electrónica,2,7649,15298,Tienda física,Chihuahua
+26/09/2025,Laptop Pro 14,Electrónica,2,14249,28498,Online,CDMX
+26/09/2025,Camiseta Basic Cotton,Moda,1,399,399,Marketplace,Jalisco
+26/09/2025,Barra de Sonido 2.1,Electrónica,3,3499,10497,Online,Yucatán
+26/09/2025,Mancuernas Ajustables 10kg,Deportes,3,999,2997,Online,Jalisco
+26/10/2025,Bicicleta Urbana R26,Deportes,2,7999,15998,Marketplace,Yucatán
+,Chamarra Denim Classic,Moda,1,1299,1299,Online,Chihuahua
+26/11/2025,Set Ciencia Experimentos,Juguetes,1,628.50,628.50,Online,Chihuahua
+26/11/2025,Lentes de Sol Retro,Moda,2,759,1518,Online,Nuevo León
+26/11/2025,,Electrónica,1,1599,1599,Marketplace,Nuevo León
+26/11/2025,Audífonos ANC Studio,Electrónica,2,2499,4998,Online,Nuevo León
+26/12/2025,Camiseta Basic Cotton,Moda,1,399,399,Online,Nuevo León
+26/12/2025,Smart TV 55'',Electrónica,1,11499,11499,Online,CDMX
+26/12/2025,Consola Next X,Electrónica,6,10499,62994,Tienda física,CDMX
+27/01/2026,Secadora Iónica 2200W,Belleza,3,1498.50,4495.50,,Jalisco
+27/01/2026,Bolso de Cuero Milano,Moda,2,1899,3798,Marketplace,CDMX
+27/01/2026,Smartphone X5,Electrónica,2,8099,16198,Online,Jalisco
+27/01/2026,Perfume Noir Intense 100ml,Belleza,1,1899,1899,Tienda física,Jalisco
+27/01/2026,Vestido Floral Summer,Moda,3,1099,3297,Tienda física,CDMX
+27/01/2026,Lentes de Sol Retro,Moda,1,759,759,Marketplace,CDMX
+27/01/2026,Perfume Noir Intense 100ml,Belleza,1,1424,1424,Marketplace,Chihuahua
+27/02/2026,Set Ciencia Experimentos,Juguetes,2,628.50,1257,Online,Nuevo León
+,Pantalón Chino Slim,Moda,1,949,949,Online,Chihuahua
+27/02/2026,Smartphone X5,Electrónica,1,8999,8999,Móvil App,Jalisco
+27/02/2026,Audífonos ANC Studio,Electrónica,5,2499,12495,Tienda física,
+27/09/2025,Bloques Creativos 500pz,Juguetes,1,899,899,Móvil App,Nuevo León
+27/09/2025,Tenis Runner Air,Moda,1,2089,2089,Marketplace,Jalisco
+27/10/2025,Laptop Pro 14,Electrónica,2,18999,37998,Online,Puebla
+27/10/2025,Licuadora Turbo 1200W,Hogar,1,1699,1699,Móvil App,Nuevo León
+27/10/2025,Bloques Creativos 500pz,Juguetes,2,899,1798,Online,Jalisco
+27/10/2025,Serum Vitamina C 30ml,Belleza,1,659,659,Online,Chihuahua
+27/10/2025,Juego de Ollas Antiadherentes,Hogar,1,2159,2159,Online,Jalisco
+27/10/2025,Secadora Iónica 2200W,Belleza,1,1498.50,1498.50,Marketplace,Nuevo León
+27/11/2025,Lámpara LED Inteligente,Hogar,2,439,878,Tienda física,Yucatán
+27/11/2025,Smart TV 55'',Electrónica,1,11499,11499,Online,Yucatán
+27/12/2025,Kit Bandas Elásticas,Deportes,3,299,897,Online,
+27/12/2025,Smartphone X5,Electrónica,1,8999,8999,Online,Nuevo León
+27/12/2025,Kit Bandas Elásticas,Deportes,1,299,299,Móvil App,CDMX
+27/12/2025,Smartphone X5,Electrónica,4,8549,34196,Online,Chihuahua
+27/12/2025,Kit Bandas Elásticas,Deportes,2,299,598,Marketplace,Nuevo León
+28/01/2026,Laptop Pro 14,Electrónica,2,18999,37998,,CDMX
+28/01/2026,Purificador de Aire Mini,Hogar,1,2899,2899,Online,CDMX
+28/01/2026,Bloques Creativos 500pz,Juguetes,1,899,899,Marketplace,
+28/01/2026,Tablet Galaxy 10",Electrónica,1,5849,5849,Marketplace,Yucatán
+28/01/2026,Rizador de Pelas Digital,Belleza,3,899,2697,Online,
+28/01/2026,Vestido Floral Summer,Moda,3,1044,3132,,
+28/09/2025,Crema Hidratante Aloe,Belleza,2,350,700,Online,Chihuahua
+28/09/2025,Licuadora Turbo 1200W,Hogar,1,1698.50,1698.50,Móvil App,
+28/09/2025,Tablet Galaxy 10",Electrónica,3,6499,19497,Online,Puebla
+28/10/2025,Rizador de Pelas Digital,Belleza,,899,899,Móvil App,CDMX
+28/10/2025,Peluche Oso Gigante 1.5m,Juguetes,1,549,549,Tienda física,Nuevo León
+28/10/2025,Paleta de Sombras Nude,Belleza,3,499,1497,Móvil App,Jalisco
+28/10/2025,Lentes de Sol Retro,Moda,1,759,759,Marketplace,Nuevo León
+28/10/2025,Set de Sábanas Queen 600h,Hogar,2,1198.50,2397,Móvil App,Puebla
+28/10/2025,Secadora Iónica 2200W,Belleza,1,1499,1499,Marketplace,Puebla
+28/11/2025,Set Ciencia Experimentos,Juguetes,1,628.50,628.50,Móvil App,Yucatán
+28/11/2025,Casco Ciclismo Aero,Deportes,1,1104,1104,,Puebla
+28/11/2025,Laptop Pro 14,Electrónica,1,18999,18999,Móvil App,Yucatán
+28/11/2025,Auto RC Turbo Rally,Juguetes,1,779,779,Online,Nuevo León
+28/11/2025,Purificador de Aire Mini,Hogar,4,2899,11596,Marketplace,CDMX
+28/11/2025,Pantalón Chino Slim,Moda,2,949,1898,,CDMX
+28/12/2025,Barra de Sonido 2.1,Electrónica,1,3498.50,3498.50,Online,CDMX
+28/12/2025,Consola Next X,Electrónica,1,11199,11199,Tienda física,Jalisco
+28/12/2025,Aspiradora Robot Clean+,Hogar,,5998.50,5998.50,Online,Yucatán
+28/12/2025,Laptop Pro 14,Electrónica,1,18999,18999,Móvil App,Yucatán
+28/12/2025,Tenis Runner Air,Moda,1,2198.50,2198.50,Online,Puebla
+28/12/2025,Barra de Sonido 2.1,Electrónica,,3499,6998,Marketplace,CDMX
+29/01/2026,Camiseta Basic Cotton,Moda,1,399,399,Online,CDMX
+,Crema Hidratante Aloe,Belleza,2,389,778,Online,CDMX
+29/01/2026,Cámara Action Go,Electrónica,2,7999,15998,Online,
+29/01/2026,Audífonos ANC Studio,Electrónica,5,2499,12495,Tienda física,Puebla
+29/01/2026,Paleta de Sombras Nude,Belleza,1,,499,Online,Puebla
+29/09/2025,Perfume Noir Intense 100ml,Belleza,1,1614,1614,Tienda física,Jalisco
+29/09/2025,Set Ciencia Experimentos,Juguetes,2,629,,Tienda física,
+,Crema Hidratante Aloe,Belleza,2,350,,Móvil App,CDMX
+29/10/2025,Smart TV 55'',Electrónica,1,11499,11499,Online,Puebla
+29/10/2025,Tablet Galaxy 10",Electrónica,2,6499,12998,Online,Nuevo León
+29/10/2025,Peluche Oso Gigante 1.5m,Juguetes,1,494,494,Online,CDMX
+29/11/2025,Set de Sábanas Queen 600h,Hogar,1,1198.50,1198.50,Tienda física,CDMX
+29/12/2025,Rizador de Pelas Digital,Belleza,1,898.50,898.50,Marketplace,CDMX
+29/12/2025,Laptop Pro 14,Electrónica,1,18999,18999,Móvil App,CDMX
+29/12/2025,Licuadora Turbo 1200W,Hogar,1,1699,1699,Online,Chihuahua
+29/12/2025,Mancuernas Ajustables 10kg,Deportes,3,998.50,,,CDMX
+29/12/2025,Set Ciencia Experimentos,Juguetes,2,629,1258,Tienda física,CDMX
+29/12/2025,Tablet Galaxy 10",Electrónica,1,6498.50,6498.50,Móvil App,Puebla
+30/01/2026,Laptop Pro 14,Electrónica,1,18049,18049,Marketplace,Jalisco
+30/01/2026,Kit Bandas Elásticas,Deportes,1,284,284,Online,
+30/01/2026,Rizador de Pelas Digital,Belleza,1,809,809,Tienda física,Puebla
+30/01/2026,Sudadera Hoodie Urban,Moda,3,899,2697,Móvil App,CDMX
+30/01/2026,Secadora Iónica 2200W,Belleza,1,1499,1499,Online,Nuevo León
+30/09/2025,Aspiradora Robot Clean+,Hogar,2,5998.50,11997,Online,Chihuahua
+30/09/2025,Crema Hidratante Aloe,Belleza,1,389,389,Online,CDMX
+30/09/2025,Lámpara LED Inteligente,Hogar,3,548.50,1645.50,Online,CDMX
+30/09/2025,Teclado Mecánico RGB,Electrónica,,1599,9594,Marketplace,Puebla
+30/09/2025,Lámpara LED Inteligente,Hogar,1,522,522,Tienda física,Yucatán
+30/09/2025,Juego de Mesa Familiar,Juguetes,2,337,674,Online,Nuevo León
+30/09/2025,Paleta de Sombras Nude,Belleza,1,499,499,Online,Puebla
+30/09/2025,Peluche Oso Gigante 1.5m,Juguetes,1,549,549,,Nuevo León
+30/09/2025,Secadora Iónica 2200W,Belleza,2,1499,2998,Online,CDMX
+30/09/2025,Rizador de Pelas Digital,Belleza,2,898.50,1797,Marketplace,CDMX
+30/09/2025,Juego de Ollas Antiadherentes,Hogar,1,2399,2399,Online,CDMX
+30/10/2025,Crema Hidratante Aloe,Belleza,2,389,778,Marketplace,Yucatán
+30/10/2025,Aspiradora Robot Clean+,Hogar,2,5998.50,11997,Móvil App,Jalisco
+30/10/2025,Cámara Action Go,Electrónica,2,7998.50,15997,Online,Yucatán
+30/10/2025,Serum Vitamina C 30ml,Belleza,2,593,1186,Móvil App,Nuevo León
+30/10/2025,Secadora Iónica 2200W,Belleza,1,1499,1499,,Jalisco
+30/10/2025,Bloques Creativos 500pz,Juguetes,1,899,899,Online,Yucatán
+30/10/2025,Crema Hidratante Aloe,Belleza,1,389,389,Marketplace,Puebla
+30/10/2025,Tenis Runner Air,Moda,1,2199,2199,Móvil App,
+30/11/2025,Secadora Iónica 2200W,Belleza,1,1124,1124,Tienda física,Puebla
+30/11/2025,Barra de Sonido 2.1,Electrónica,1,3498.50,3498.50,Tienda física,CDMX
+30/12/2025,,Hogar,1,548.50,548.50,Online,CDMX
+30/12/2025,Licuadora Turbo 1200W,Hogar,,1698.50,3397,Tienda física,Chihuahua
+30/12/2025,Smartwatch Fit 3,Electrónica,2,3298.50,6597,Marketplace,Jalisco
+30/12/2025,Perfume Noir Intense 100ml,Belleza,1,1898.50,1898.50,Móvil App,Puebla
+31/01/2026,Purificador de Aire Mini,Hogar,1,2319,2319,Online,CDMX
+31/01/2026,Casco Ciclismo Aero,Deportes,2,1169,2338,Tienda física,CDMX
+31/01/2026,Perfume Noir Intense 100ml,Belleza,2,1898.50,3797,Online,CDMX
+31/01/2026,Audífonos ANC Studio,Electrónica,1,1999,1999,Móvil App,CDMX
+31/01/2026,Casco Ciclismo Aero,Deportes,1,1299,1299,Móvil App,Nuevo León
+31/01/2026,Tablet Galaxy 10",Electrónica,2,6499,12998,,Puebla
+31/01/2026,Yoga Mat Premium,Deportes,1,649,649,Online,Nuevo León
+31/10/2025,Perfume Noir Intense 100ml,Belleza,1,1899,1899,Online,CDMX
+31/10/2025,Paleta de Sombras Nude,Belleza,3,449,1347,Online,
+31/12/2025,Smart TV 55'',Electrónica,2,9199,18398,,CDMX
+31/12/2025,Casco Ciclismo Aero,Deportes,1,1299,1299,Móvil App,Yucatán
+31/12/2025,Balón Soccer Pro FIFA,Deportes,2,548.50,1097,Marketplace,Jalisco
+31/12/2025,Bicicleta Urbana R26,Deportes,1,7999,7999,Online,Chihuahua
+31/12/2025,Lentes de Sol Retro,Moda,2,759,1518,,Chihuahua
+31/12/2025,Barra de Sonido 2.1,Electrónica,1,3498.50,3498.50,Online,Jalisco
+31/12/2025,,Electrónica,3,1598.50,4795.50,Online,Chihuahua
+31/12/2025,Aspiradora Robot Clean+,Hogar,2,5099,10198,Online,Jalisco
+31/12/2025,Purificador de Aire Mini,Hogar,1,2898.50,2898.50,Tienda física,Yucatán
