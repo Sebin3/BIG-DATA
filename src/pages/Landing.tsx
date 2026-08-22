@@ -72,7 +72,7 @@ const STEPS = [
   {
     number: '02',
     title: 'Perfila y depura',
-    text: 'DataScope detecta tipos, duplicados y faltantes; corrige con un clic y conserva cada versión.',
+    text: 'La plataforma detecta tipos, duplicados y faltantes; corrige con un clic y conserva cada versión.',
   },
   {
     number: '03',
@@ -151,7 +151,7 @@ export default function Landing() {
                 tu empresa
               </h1>
               <p>
-                DataScope aplica las técnicas de Big Data que usan las grandes
+                La plataforma aplica las técnicas de Big Data que usan las grandes
                 corporaciones: perfila, limpia y visualiza tus datos masivos
                 para convertirlos en ventaja competitiva. Sin servidores, sin
                 fricción.
@@ -276,7 +276,7 @@ export default function Landing() {
               <h2>Tus datos valen más cuando puedes confiar en ellos</h2>
               <p>
                 Las decisiones corporativas fallan por datos sucios, no por falta
-                de información. DataScope mide la completitud de cada dataset,
+                de información. El panel mide la completitud de cada dataset,
                 elimina duplicados y rellena faltantes con estadística sólida.
               </p>
               <ul className="showcase__list">
@@ -415,7 +415,7 @@ export default function Landing() {
           </div>
         </div>
         <div className="container footer__bottom">
-          <p>© 2026 DataScope Analytics. Todos los derechos reservados.</p>
+          <p>© 2026 Big Data Analytics. Todos los derechos reservados.</p>
         </div>
       </footer>
     </div>

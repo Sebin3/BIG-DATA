@@ -14,7 +14,7 @@ export default function Logo({ to = '/', variant = 'dark' }: LogoProps) {
         <Database size={20} strokeWidth={2.2} />
       </span>
       <span className="logo__text">
-        Data<b>Scope</b>
+        Big<b>Data</b>
       </span>
     </Link>
   )

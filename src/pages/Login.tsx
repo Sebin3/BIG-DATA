@@ -36,7 +36,7 @@ export default function Login() {
 
   const fillDemo = () => {
     setMode('login')
-    setEmail('demo@datascope.io')
+    setEmail('demo@bigdata.io')
     setPassword('demo123')
     setError('')
   }

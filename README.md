@@ -1,4 +1,4 @@
-# DataScope
+# Big Data
 
 CRM con enfoque en análisis de datos de ventas. Aplicación 100% frontend construida con React, TypeScript y Vite: procesa archivos CSV, los perfila estadísticamente y genera un panel con métricas y gráficas interactivas.
 
@@ -13,7 +13,7 @@ CRM con enfoque en análisis de datos de ventas. Aplicación 100% frontend const
 ## Funcionalidades
 
 - **Landing** pública con presentación del producto.
-- **Login / Registro** con verificación por código OTP (flujo demo en `localStorage`, incluye cuenta demo `demo@datascope.io` / `demo123`).
+- **Login / Registro** con verificación por código OTP (flujo demo en `localStorage`, incluye cuenta demo `demo@bigdata.io` / `demo123`).
 - **Procesar Datos**: carga CSV por arrastre, detección automática de tipos (numérico, fecha, categórico, booleano), roles semánticos de columnas (fecha, ingresos, categoría…) y pipeline visual de proceso.
 - **Panel General**: KPIs, evolución temporal mensual, tipos de dato, valores faltantes, histograma y ranking de categorías.
 - **Limpieza de Datos**: tabla paginada con búsqueda global, eliminación de duplicados y relleno de faltantes (mediana / moda). Cada limpieza genera una versión nueva trazable.

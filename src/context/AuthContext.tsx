@@ -13,7 +13,7 @@ const OTP_KEY = 'crm_otp_code'
 
 const DEMO_USER: StoredUser = {
   name: 'Alex Torres',
-  email: 'demo@datascope.io',
+  email: 'demo@bigdata.io',
   password: 'demo123',
 }
 
@@ -32,12 +32,14 @@ function writeUsers(users: StoredUser[]) {
   localStorage.setItem(USERS_KEY, JSON.stringify(users))
 }
 
+const LEGACY_DEMO_EMAILS = ['demo@verdecrm.com', 'demo@datascope.io']
+
 function ensureDemoUser() {
   const users = readUsers()
     .filter(
       (u) =>
-        u.email.toLowerCase() !== DEMO_USER.email.toLowerCase() &&
-        u.email.toLowerCase() !== 'demo@verdecrm.com',
+        !LEGACY_DEMO_EMAILS.includes(u.email.toLowerCase()) &&
+        u.email.toLowerCase() !== DEMO_USER.email.toLowerCase(),
     )
   users.unshift(DEMO_USER)
   writeUsers(users)
